@@ -86,7 +86,7 @@ CREATE TABLE "EmpPost"(
 "PostId" char(4) references "Post",
 "EmpId" char(4) references "Employee",
 "AppliedDate" date,
-"ApplicationStatus" text check ("ApplicationStatus" in ("Reviewing","Accepted","Rejected")) default "Reviewing",
+"ApplicationStatus" text default 'Reviewing' check ("ApplicationStatus" in ('Reviewing','Accepted','Rejected')),
 PRIMARY KEY ("PostId","EmpId")
 
 );
