@@ -96,3 +96,6 @@ CREATE TABLE "Post"("PostId" char(4) PRIMARY KEY);
 CREATE TABLE "Employee"(
 "EmpId"char(4) PRIMARY KEY
 );
+
+\c "EmployeeSkillsDB";
+alter table "Skill" add column "SkillName" varchar(20) not null;
