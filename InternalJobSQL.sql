@@ -36,7 +36,7 @@ CREATE TABLE "Employee" (
    "EmailId" text,
    "PhoneNum" char(10) not null,
    "TotalExperience" integer,
-    "JobId" char(6) references "Job",
+    "JobId" char(6) references "Job"
 );
 
 CREATE DATABASE "EmployeeSkillsDB";
@@ -90,6 +90,8 @@ CREATE TABLE "EmpPost"(
 PRIMARY KEY ("PostId","EmpId")
 
 );
+
+CREATE TABLE "Post"("PostId" char(4) PRIMARY KEY);
 
 CREATE TABLE "Employee"(
 "EmpId"char(4) PRIMARY KEY
