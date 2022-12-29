@@ -1,0 +1,12 @@
+C:\Users\sdadwai\Documents\Project Club\Project 1 (1)\Project 1\Solution1\JobPostRepository\bin\Debug\JobPostRepository.dll.config
+C:\Users\sdadwai\Documents\Project Club\Project 1 (1)\Project 1\Solution1\JobPostRepository\bin\Debug\JobPostRepository.dll
+C:\Users\sdadwai\Documents\Project Club\Project 1 (1)\Project 1\Solution1\JobPostRepository\bin\Debug\JobPostRepository.pdb
+C:\Users\sdadwai\Documents\Project Club\Project 1 (1)\Project 1\Solution1\JobPostRepository\bin\Debug\EntityFramework.dll
+C:\Users\sdadwai\Documents\Project Club\Project 1 (1)\Project 1\Solution1\JobPostRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sdadwai\Documents\Project Club\Project 1 (1)\Project 1\Solution1\JobPostRepository\bin\Debug\EntityFramework.xml
+C:\Users\sdadwai\Documents\Project Club\Project 1 (1)\Project 1\Solution1\JobPostRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sdadwai\Documents\Project Club\Project 1 (1)\Project 1\Solution1\JobPostRepository\obj\Debug\JobPostRepository.csproj.AssemblyReference.cache
+C:\Users\sdadwai\Documents\Project Club\Project 1 (1)\Project 1\Solution1\JobPostRepository\obj\Debug\JobPostRepository.csproj.CoreCompileInputs.cache
+C:\Users\sdadwai\Documents\Project Club\Project 1 (1)\Project 1\Solution1\JobPostRepository\obj\Debug\JobPostRepository.csproj.CopyComplete
+C:\Users\sdadwai\Documents\Project Club\Project 1 (1)\Project 1\Solution1\JobPostRepository\obj\Debug\JobPostRepository.dll
+C:\Users\sdadwai\Documents\Project Club\Project 1 (1)\Project 1\Solution1\JobPostRepository\obj\Debug\JobPostRepository.pdb

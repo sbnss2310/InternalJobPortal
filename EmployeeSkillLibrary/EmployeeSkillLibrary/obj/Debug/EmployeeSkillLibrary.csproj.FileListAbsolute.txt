@@ -1,0 +1,12 @@
+C:\Users\sdadwai\Documents\Project Club\EmployeeSkillLibrary\EmployeeSkillLibrary\bin\Debug\EmployeeSkillLibrary.dll.config
+C:\Users\sdadwai\Documents\Project Club\EmployeeSkillLibrary\EmployeeSkillLibrary\bin\Debug\EmployeeSkillLibrary.dll
+C:\Users\sdadwai\Documents\Project Club\EmployeeSkillLibrary\EmployeeSkillLibrary\bin\Debug\EmployeeSkillLibrary.pdb
+C:\Users\sdadwai\Documents\Project Club\EmployeeSkillLibrary\EmployeeSkillLibrary\bin\Debug\EntityFramework.dll
+C:\Users\sdadwai\Documents\Project Club\EmployeeSkillLibrary\EmployeeSkillLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sdadwai\Documents\Project Club\EmployeeSkillLibrary\EmployeeSkillLibrary\bin\Debug\EntityFramework.xml
+C:\Users\sdadwai\Documents\Project Club\EmployeeSkillLibrary\EmployeeSkillLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sdadwai\Documents\Project Club\EmployeeSkillLibrary\EmployeeSkillLibrary\obj\Debug\EmployeeSkillLibrary.csproj.AssemblyReference.cache
+C:\Users\sdadwai\Documents\Project Club\EmployeeSkillLibrary\EmployeeSkillLibrary\obj\Debug\EmployeeSkillLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sdadwai\Documents\Project Club\EmployeeSkillLibrary\EmployeeSkillLibrary\obj\Debug\EmployeeSkillLibrary.csproj.CopyComplete
+C:\Users\sdadwai\Documents\Project Club\EmployeeSkillLibrary\EmployeeSkillLibrary\obj\Debug\EmployeeSkillLibrary.dll
+C:\Users\sdadwai\Documents\Project Club\EmployeeSkillLibrary\EmployeeSkillLibrary\obj\Debug\EmployeeSkillLibrary.pdb

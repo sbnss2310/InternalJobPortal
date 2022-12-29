@@ -1,0 +1,12 @@
+C:\Users\sdadwai\Documents\Project Club\EmpPostRepository (1)\EmpPostRepository\EmpPostRepository\bin\Debug\EmpPostRepository.dll.config
+C:\Users\sdadwai\Documents\Project Club\EmpPostRepository (1)\EmpPostRepository\EmpPostRepository\bin\Debug\EmpPostRepository.dll
+C:\Users\sdadwai\Documents\Project Club\EmpPostRepository (1)\EmpPostRepository\EmpPostRepository\bin\Debug\EmpPostRepository.pdb
+C:\Users\sdadwai\Documents\Project Club\EmpPostRepository (1)\EmpPostRepository\EmpPostRepository\bin\Debug\EntityFramework.dll
+C:\Users\sdadwai\Documents\Project Club\EmpPostRepository (1)\EmpPostRepository\EmpPostRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sdadwai\Documents\Project Club\EmpPostRepository (1)\EmpPostRepository\EmpPostRepository\bin\Debug\EntityFramework.xml
+C:\Users\sdadwai\Documents\Project Club\EmpPostRepository (1)\EmpPostRepository\EmpPostRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sdadwai\Documents\Project Club\EmpPostRepository (1)\EmpPostRepository\EmpPostRepository\obj\Debug\EmpPostRepository.csproj.AssemblyReference.cache
+C:\Users\sdadwai\Documents\Project Club\EmpPostRepository (1)\EmpPostRepository\EmpPostRepository\obj\Debug\EmpPostRepository.csproj.CoreCompileInputs.cache
+C:\Users\sdadwai\Documents\Project Club\EmpPostRepository (1)\EmpPostRepository\EmpPostRepository\obj\Debug\EmpPostRepository.csproj.CopyComplete
+C:\Users\sdadwai\Documents\Project Club\EmpPostRepository (1)\EmpPostRepository\EmpPostRepository\obj\Debug\EmpPostRepository.dll
+C:\Users\sdadwai\Documents\Project Club\EmpPostRepository (1)\EmpPostRepository\EmpPostRepository\obj\Debug\EmpPostRepository.pdb
